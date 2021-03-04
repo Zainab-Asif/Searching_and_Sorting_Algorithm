@@ -1,2 +1,2 @@
-# Searching_and_Sorting_Algorithm
+# Time Complexity Analysis of various Searching & Sorting Algorithms
 Data Structure Project
